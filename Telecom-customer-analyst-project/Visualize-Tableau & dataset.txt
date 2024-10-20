@@ -1,0 +1,3 @@
+Dataset: https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
+Link tableau :
+https://public.tableau.com/app/profile/minh.huynh2735/viz/Telecom_17288031743780/Dashboard1?publish=yes
