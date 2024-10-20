@@ -1,3 +1,4 @@
 Dataset: https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
+Link EDA google colab python: https://colab.research.google.com/drive/1oegG2OX2UBD1SVMJe-E7cSamavoMRVaI#scrollTo=lI1kYP_x86Cf
 Link tableau :
 https://public.tableau.com/app/profile/minh.huynh2735/viz/Telecom_17288031743780/Dashboard1?publish=yes
