@@ -1,4 +1,0 @@
-Dataset: https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
-Link EDA python preview full : https://nbviewer.org/github/BaoMinhHuynh/Telecom-project/blob/main/Telecom-customer-analyst-project/Telecom_customer_churn_analysis.ipynb
-Link tableau :
-https://public.tableau.com/app/profile/minh.huynh2735/viz/Telecom_17288031743780/Dashboard1?publish=yes
